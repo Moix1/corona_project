@@ -15,6 +15,7 @@ constantly==15.1.0
 cryptography==2.8
 cssselect==1.1.0
 distlib==0.3.0
+dj-database-url==0.5.0
 dj-static==0.0.6
 Django==3.0.3
 django-filter==2.2.0
@@ -22,6 +23,7 @@ djangorestframework==3.11.0
 docutils==0.15.2
 fake-useragent==0.1.11
 filelock==3.0.12
+gunicorn==20.0.4
 html5lib==1.0.1
 hyperlink==19.0.0
 idna==2.9
@@ -37,6 +39,7 @@ parsel==1.5.2
 Pillow==7.0.0
 pipenv==2018.11.26
 Protego==0.1.16
+psycopg2==2.8.5
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycparser==2.19
@@ -72,5 +75,6 @@ virtualenv-clone==0.5.3
 w3lib==1.21.0
 webencodings==0.5.1
 websockets==8.1
+whitenoise==5.0.1
 xhtml2pdf==0.2.4
 zope.interface==4.7.1
